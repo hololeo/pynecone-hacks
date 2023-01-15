@@ -1,5 +1,7 @@
 # pynecone-hacks
-Learning pynecone-io with copy pasta hacks
+## Learning pynecone-io with copy pasta hacks
+
+## If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.
 
 
 https://github.com/hololeo/pynecone-hacks/blob/main/changetitle.py
