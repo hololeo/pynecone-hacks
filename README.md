@@ -11,4 +11,6 @@ https://github.com/hololeo/pynecone-hacks/blob/main/changetitle.py
 ## Hot reload with less CPU usuage
 http://www.willnolan.com/cputhrottle/cputhrottle.html 
 
+sudo ./cputhrottle $(pgrep -f -i Python | head -1) 5
+
 ![pc-throttle-cpu](https://user-images.githubusercontent.com/11970940/212562836-aa28e975-aab6-4aa1-84c5-0460c299de02.gif)
