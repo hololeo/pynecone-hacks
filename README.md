@@ -7,3 +7,6 @@
 https://github.com/hololeo/pynecone-hacks/blob/main/changetitle.py
 
 ![pc-browser-title](https://user-images.githubusercontent.com/11970940/212558381-bd8504fd-c83a-4ab7-87d9-edb6a3e2afc8.gif)
+
+## Hot reload with less CPU usuage
+![pc-throttle-cpu](https://user-images.githubusercontent.com/11970940/212562836-aa28e975-aab6-4aa1-84c5-0460c299de02.gif)
