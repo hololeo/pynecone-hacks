@@ -14,3 +14,7 @@ http://www.willnolan.com/cputhrottle/cputhrottle.html
 sudo ./cputhrottle $(pgrep -f -i Python | head -1) 5
 
 ![pc-throttle-cpu](https://user-images.githubusercontent.com/11970940/212562836-aa28e975-aab6-4aa1-84c5-0460c299de02.gif)
+
+## How to export static build of pynecone app (no interactivity)
+
+![Screen Shot 2023-01-16 at 8 05 52 AM](https://user-images.githubusercontent.com/11970940/212721861-22b4b6b1-8dde-46d4-b17e-753b5e9a6ffa.png)
